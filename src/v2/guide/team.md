@@ -824,6 +824,23 @@ order: 803
       ]
     },
     {
+      name: 'Kiran Malvi',
+      title: 'Mindinventory',
+      city: 'Ahmedabad, India',
+      languages: ['en'],
+      work: {
+        role: 'Technical Head',
+        org: 'Mindinventory'
+      },
+      github: 'mindinventory',
+      twitter: 'Mindinventory',
+      links: [
+        'https://vuevixens.org/',
+        'https://nativescript-vue.org/'
+      ]
+    },
+
+    {
       name: 'Alex Jover',
       title: 'Vue Components Squeezer',
       city: 'Alicante, Spain',
